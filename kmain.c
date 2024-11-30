@@ -23,5 +23,4 @@ void kmain(void)
         ++i;
         j = j + 2;
     }
-
 }
