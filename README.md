@@ -1,5 +1,4 @@
 # OS93
-
 My second attempt OS from scratch.
 
 Written with the help of ChatGPT and GitHub Copilot.
