@@ -24,7 +24,7 @@ done:
     mov bx, 0x1000  ; Address to load the kernel
 
     mov ah, 0x02    ; BIOS read sector function
-    mov al, 2       ; Number of sectors to read
+    mov al, 3       ; Number of sectors to read (depends on kernel.bin size)
     mov ch, 0       ; Cylinder number
     mov cl, 2       ; Sector number (second sector)
     mov dh, 0       ; Head number
