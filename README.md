@@ -1,4 +1,4 @@
-** NOTE:** [New Actual Repo Link](https://github.com/adminekspi/OS93)
+**NOTE:** [New Actual Repo Link](https://github.com/adminekspi/OS93)
 
 # OS93
 My second attempt OS from scratch.
